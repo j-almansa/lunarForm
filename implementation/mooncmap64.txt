@@ -1,0 +1,54 @@
+Index:  1
+CDATA:  -7.7299E3
+R:  53
+G:  42
+B:  135
+
+Index:  20
+CDATA:  -2.9404E3
+R:  18
+G:  139
+B:  180
+
+Index:  22
+CDATA:  -2.4363E3
+R:  10
+G:  150
+B:  198
+
+Index:  23
+CDATA:  -2.1842E3
+R:  7
+G:  169
+B:  194
+
+Index:  31
+CDATA:  -1.6756E2
+R:  173
+G:  235
+B:  255
+
+Index:  32
+CDATA:  84.5219
+R:  0
+G:  127
+B:  0
+
+Index:  40
+CDATA:  2.1011E3
+R:  218
+G:  223
+B:  21
+
+Index:  41
+CDATA:  2.3532E3
+R:  255
+G:  255
+B:  0
+
+Index:  64
+CDATA:  8.151E3
+R:  153
+G:  51
+B:  0
+
